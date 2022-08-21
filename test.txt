@@ -1,3 +1,3 @@
 hello git.
-a edit.
+a edit. edit by b.
 test again.
